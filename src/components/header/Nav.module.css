@@ -1,5 +1,6 @@
 .header {
   border: 1px solid red;
+  margin-top: 43px;
 }
 .nav {
   display: flex;
