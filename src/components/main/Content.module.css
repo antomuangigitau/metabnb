@@ -50,6 +50,7 @@
   font-size: 14px;
 }
 .input__search span {
+  cursor: pointer;
   background: linear-gradient(90deg, #a02279 11.45%, #a02279 11.45%);
   color: var(--White);
   border-top-right-radius: 8px;
