@@ -1,7 +1,10 @@
 .container {
+  border: 1px solid red;
+  width: 95%;
+  max-width: 1240px;
+  margin: 125px auto;
   display: flex;
   gap: 99px;
-  margin-top: 125px;
   padding-right: 19px;
   height: 459px;
 }
@@ -18,7 +21,7 @@
 }
 .text__content p {
   margin: 48px 0;
-  width: 636px;
+  /* width: 636px; */
   font-size: 24px;
   font-weight: 400;
   color: var(--Text-Black);

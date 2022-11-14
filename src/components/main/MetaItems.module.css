@@ -1,0 +1,13 @@
+.meta__container {
+  margin-top: 67px;
+  height: 70px;
+  background: linear-gradient(90deg, #a02279 11.45%, #a02279 11.45%);
+}
+.meta__items {
+  max-width: 1240px;
+  margin: 0 auto;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

@@ -23,7 +23,7 @@ const Content = () => {
               placeholder="search for location"
             />
           </div>
-          <span>search</span>
+          <span>Search</span>
         </div>
       </div>
       <div className={styles['image__section']}>
